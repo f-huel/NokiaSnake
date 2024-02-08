@@ -1,0 +1,41 @@
+{
+  "name": "nokiasnake",
+  "version": "1.0.0",
+  "description": "This is a 2 player Nokia Snake game, developed with Phaser",
+  "main": "index.js",
+  "scripts": {
+    "serve": "parcel serve src/index.html --dist-dir dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/f-huel/NokiaSnake.git"
+  },
+  "keywords": [
+    "Phaser",
+    "Nokia",
+    "Snake",
+    "Game",
+    "Typescript"
+  ],
+  "author": "'Felix Huel' 'Mehdi El Khallouki'",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/f-huel/NokiaSnake/issues"
+  },
+  "homepage": "https://github.com/f-huel/NokiaSnake#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.21.0",
+    "eslint": "^8.56.0",
+    "eslint-config-standard-with-typescript": "^43.0.1",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-n": "^16.6.2",
+    "eslint-plugin-promise": "^6.1.1",
+    "parcel": "^2.11.0",
+    "ts-loader": "^9.5.1",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "phaser": "^3.70.0"
+  }
+}
