@@ -1,116 +1,83 @@
-<a name="readme-top"></a>
+# NokiaSnake 🐍
 
-<br />
-<div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/readme/logo.png" alt="Logo" width="80" height="80">
-  </a>
+[Explore the docs »](https://github.com/f-huel/NokiaSnake)
 
-<h3 align="center">NokiaSnake 🐍</h3>
+[View Demo]()?
 
-  <p align="center">
-    This is a 2 player version of the Nokia snake game!
-    <br />
-    <a href="https://github.com/f-huel/NokiaSnake"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="#">View Demo</a>
-    ·
-    <a href="https://github.com/f-huel/NokiaSnake/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/f-huel/NokiaSnake/issues">Request Feature</a>
-  </p>
-</div>
-
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
+[Report Bug](https://github.com/f-huel/NokiaSnake/issues) | [Request Feature](https://github.com/f-huel/NokiaSnake/issues)
 
 
-## About The Project 📕
+## Table Of Contents
+- [Project Information](#project-information-📕)
+  - [Built With](#built-with-🔨)
+- [Getting Started](#getting-started-📖)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage-📝)
+- [Roadmap](#roadmap-🛣)
+- [Contributing](#contributing-👥)
+- [License](#license-⚖)
+- [Contact](#contact-✉)
+- [Aknowledgements](#acknowledgments-🖇)
+
+
+## Project Information 📕
 <img src="images/readme/screenshot.png" alt="Preview">
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+info info.......
 
 
 ### Built With 🔨
-* 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+- Phaser
+- Typescript
 
 
 ## Getting Started 📖
 
 
 ### Prerequisites
+- Any modern browser.
+- NPM (for development)
 
 
 ### Installation
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+- repo clone
+- npm install
 
 
 ## Usage 📝
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+- NPM run serve
+- find on localhost 1234
 
 
 ## Roadmap 🛣
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ ] Snakes
+  - [ ] Body Build
+  - [ ] Colour Difference
+  - [ ] Controllability for 2 players (WASD & arrow keys)
+  - [ ] Growable and shrinkable when eating Mogus
+- [ ] Mogus (food for the snake)
+  - [ ] Random spawn
+  - [ ] Colour difference for players
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## Contributing 👥
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+If you want to add anything, please open a [pull request](https://github.com/f-huel/NokiaSnake/pulls).
 
 
 ## License ⚖
-Distributed under the MIT License. See `LICENSE.md` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Distributed under the MIT License. See [`LICENSE.md`](LICENSE.md) for more information.
 
 
 ## Contact ✉
-* felix.huel6@gmail.com
-* [LinkedIn](https://www.linkedin.com/in/f%C3%A9lix-huel-1407a8283/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+- Félix
+  - felix.huel6@gmail.com
+- Mehdi
+  - mehdiek@outlook.com
 
 ## Acknowledgments 🖇
-* []()
-* []()
-* []()
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+- []()
+- []()
+- []()
