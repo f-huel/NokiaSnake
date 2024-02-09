@@ -47,10 +47,11 @@ info info.......
 
 ## Usage 📝
 - NPM run serve
-- find on localhost 1234
+- find on http://localhost:1234
 
 
 ## Roadmap 🛣
+- [ ] Start Screen
 - [ ] Snakes
   - [ ] Body Build
   - [x] Colour Difference
