@@ -51,7 +51,7 @@ info info.......
 
 
 ## Roadmap 🛣
-- [ ] Start Screen
+- [x] Start Screen
 - [ ] Snakes
   - [ ] Body Build
   - [x] Colour Difference
