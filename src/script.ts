@@ -1,5 +1,11 @@
 import "phaser";
 
+class TitleScene extends Phaser.Scene {
+    constructor() {
+        super({key: 'TitleScene'});
+    }
+}
+
 const config = {
     type: Phaser.AUTO,
     width: 800,
