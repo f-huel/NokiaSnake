@@ -53,12 +53,12 @@ info info.......
 ## Roadmap 🛣
 - [ ] Snakes
   - [ ] Body Build
-  - [ ] Colour Difference
+  - [x] Colour Difference
   - [ ] Controllability for 2 players (WASD & arrow keys)
   - [ ] Growable and shrinkable when eating Mogus
 - [ ] Mogus (food for the snake)
   - [ ] Random spawn
-  - [ ] Colour difference for players
+  - [x] Colour difference for players
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
