@@ -1,8 +1,7 @@
 import "phaser";
-interface GameConfig extends Phaser.Types.Core.GameConfig {}
 import GameScene from "./scenes/gameScene";
 
-const config: GameConfig = {
+const config: Phaser.Types.Core.GameConfig = {
   type: Phaser.AUTO,
   title: "NokiaSnake",
   width: 1400,
@@ -22,7 +21,7 @@ const config: GameConfig = {
 };
 
 export class NokiaSnake extends Phaser.Game {
-  constructor(config: GameConfig) {
+  constructor(config: Phaser.Types.Core.GameConfig) {
     super(config);
   }
 }
